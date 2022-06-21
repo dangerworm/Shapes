@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{3B68CE36-9F33-45E0-AA8F-4B2D0041BCEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B68CE36-9F33-45E0-AA8F-4B2D0041BCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B68CE36-9F33-45E0-AA8F-4B2D0041BCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B68CE36-9F33-45E0-AA8F-4B2D0041BCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B68CE36-9F33-45E0-AA8F-4B2D0041BCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFB694D6-2B35-4AB3-97CE-4D275BD1DF05}
+	EndGlobalSection
+EndGlobal
